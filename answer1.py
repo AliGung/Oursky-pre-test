@@ -1,3 +1,5 @@
+#!user/bin/env python
+
 # print("Please enter 2 sets of any letters (A~Z).")
 a = set(input("Please enter array1: "))
 b = set(input("Please enter array2: "))
