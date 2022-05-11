@@ -69,6 +69,3 @@ def score():
 # While not reaching capacity, put() function has complexity = O(1)
 # When reaching capacity, put() has complexity: O(n) + O(n log n) + O(n) = O(2n) + O(n log n)
 # where n = len(key_weight) = len(cache)   
-
-
-
